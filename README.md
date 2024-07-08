@@ -5,7 +5,7 @@
 
 Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em programação em C, com habilidades em estruturas de dados, algoritmos e gestão de memória. Estou buscando uma transição para a carreira de desenvolvedor de software, onde posso aplicar e expandir meus conhecimentos técnicos. Estou entusiasmado para contribuir e crescer em uma equipe inovadora.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leoyzs&label=Profile%20views&color=0e75b6&style=flat" alt="joaop-bier" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaop-bier&label=Profile%20views&color=0e75b6&style=flat" alt="joaop-bier" /> </p>
 
 ### Linguagens
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
