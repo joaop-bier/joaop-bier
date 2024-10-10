@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou João 👋</h1>
-<h3 align="center">Sou desenvolvedor Front-End, estudando no senai atualmente,conhecimentos em python e C. Curitiba - Brasil</h3>
+<h3 align="center">Sou desenvolvedor Front-End ,conhecimentos em python e C. Curitiba - Brasil</h3>
 
 ## Sobre mim
 
