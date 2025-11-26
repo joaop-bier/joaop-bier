@@ -3,9 +3,9 @@
 
 ## Sobre mim
 
-Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em linguagem C, com domínio de estruturas de dados, algoritmos e gerenciamento de memória.
+Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em linguagem C e tecnologias web
 
-Atualmente estou focado na transição para o Desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias como **React, Node.js, TypeScript e TailwindCSS**.
+Atualmente estou focado nem Desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias como **React, Node.js, TypeScript e TailwindCSS**.
 
 Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como desenvolvedor e construir soluções reais que gerem impacto.
 
