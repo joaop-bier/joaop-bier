@@ -48,7 +48,7 @@ Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como 
 
 ---
 
-## 📊 GitHub Stats (versão premium)
+## 📊 GitHub Stats
 
 <div align="center">
 
