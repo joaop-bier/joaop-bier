@@ -1,12 +1,13 @@
 <h1 align="center">Olá, eu sou João 👋</h1>
-<h3 align="center">Sou Desenvolvedor Front-End • Curitiba - Brasil</h3>
+<h3 align="center">Desenvolvedor Front-End • Curitiba - Brasil</h3>
 
 ## Sobre mim
 
-Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em programação em C, incluindo estruturas de dados, algoritmos e gerenciamento de memória.  
-Atualmente estou em transição para o desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias modernas como **React, Node.js e TypeScript**.
+Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em linguagem C, com domínio de estruturas de dados, algoritmos e gerenciamento de memória.
 
-Sou dedicado, disciplinado e sempre buscando evoluir na área de tecnologia. Quero contribuir em equipes inovadoras e crescer como desenvolvedor Full Stack no futuro.
+Atualmente estou focado na transição para o Desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias como **React, Node.js, TypeScript e TailwindCSS**.
+
+Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como desenvolvedor e construir soluções reais que gerem impacto.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=joaop-bier&label=Profile%20views&color=0e75b6&style=flat" alt="joaop-bier"/>
@@ -26,7 +27,7 @@ Sou dedicado, disciplinado e sempre buscando evoluir na área de tecnologia. Que
 ## 📘 Tecnologias que estou estudando / desejo aprender
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -47,9 +48,29 @@ Sou dedicado, disciplinado e sempre buscando evoluir na área de tecnologia. Que
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (versão premium)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaop-bier&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+
+  <!-- Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=joaop-bier&show_icons=true&theme=tokyonight&border_radius=10"
+       height="165px"
+  />
+
+  <!-- Linguagens -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop-bier&layout=compact&theme=tokyonight&border_radius=10"
+       height="165px"
+  />
+
+  <!-- Streak (extra premium) -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=joaop-bier&theme=tokyonight&border_radius=10"
+       height="165px"
+  />
+
+</div>
 
 ---
 
