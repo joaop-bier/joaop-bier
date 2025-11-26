@@ -52,25 +52,23 @@ Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como 
 
 <div align="center">
 
-  <!-- Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=joaop-bier&show_icons=true&theme=tokyonight&border_radius=10"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaop-bier&show_icons=true&theme=tokyonight"
        height="165px"
   />
 
-  <!-- Linguagens -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop-bier&layout=compact&theme=tokyonight&border_radius=10"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaop-bier&layout=compact&theme=tokyonight"
        height="165px"
   />
 
-  <!-- Streak (extra premium) -->
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=joaop-bier&theme=tokyonight&border_radius=10"
+       src="https://streak-stats.demolab.com?user=joaop-bier&theme=tokyonight"
        height="165px"
   />
 
 </div>
+
 
 ---
 
