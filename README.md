@@ -55,9 +55,22 @@ Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como 
       align="left"
       alt="GitHub Stats"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysthoferr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop-bier&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
+
+<br/><br/><br/><br/><br/>
+
+---
+
+## 🐍 Snake (Contribuições)
+
+<p align="center">
+  <img 
+    alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/joaop-bier/joaop-bier/output/github-contribution-grid-snake.svg"
+  />
+</p>
 
 ---
 
