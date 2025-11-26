@@ -3,14 +3,17 @@
 
 ## Sobre mim
 
-Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em linguagem C e tecnologias web
+Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em linguagem C e tecnologias web.
 
-Atualmente estou focado nem Desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias como **React, Node.js, TypeScript e TailwindCSS**.
+Atualmente estou focado em Desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias como **React, Node.js, TypeScript e TailwindCSS**.
 
 Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como desenvolvedor e construir soluções reais que gerem impacto.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=joaop-bier&label=Profile%20views&color=0e75b6&style=flat" alt="joaop-bier"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=joaop-bier&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="joaop-bier"
+  />
 </p>
 
 ---
@@ -50,25 +53,16 @@ Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como 
 
 ## 📊 GitHub Stats
 
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysthoferr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+<div>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaop-bier&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
+</div>
 
 <br/><br/><br/><br/><br/>
-
----
-
-## 🐍 Snake (Contribuições)
-
-<p align="center">
-  <img 
-    alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/joaop-bier/joaop-bier/output/github-contribution-grid-snake.svg"
-  />
-</p>
 
 ---
 
