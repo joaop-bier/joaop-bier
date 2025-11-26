@@ -1,14 +1,3 @@
-Aqui está o seu README **corrigido**, **organizado** e **atualizado** com:
-
-✔ JavaScript nas suas linguagens
-✔ Tecnologias que você deseja aprender: **Node.js, React, TypeScript, Python, Tailwind CSS, NPM**
-✔ Correções de tags, links e formatação
-✔ Melhor descrição sobre você
-
----
-
-## ✅ README atualizado
-
 ```markdown
 <h1 align="center">Olá, eu sou João 👋</h1>
 <h3 align="center">Sou Desenvolvedor Front-End • Curitiba - Brasil</h3>
