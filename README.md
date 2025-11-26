@@ -1,36 +1,76 @@
+Aqui está o seu README **corrigido**, **organizado** e **atualizado** com:
+
+✔ JavaScript nas suas linguagens
+✔ Tecnologias que você deseja aprender: **Node.js, React, TypeScript, Python, Tailwind CSS, NPM**
+✔ Correções de tags, links e formatação
+✔ Melhor descrição sobre você
+
+---
+
+## ✅ README atualizado
+
+```markdown
 <h1 align="center">Olá, eu sou João 👋</h1>
-<h3 align="center">Sou desenvolvedor Front-End ,conhecimentos em python e C. Curitiba - Brasil</h3>
+<h3 align="center">Sou Desenvolvedor Front-End • Curitiba - Brasil</h3>
 
 ## Sobre mim
 
-Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em programação em C, com habilidades em estruturas de dados, algoritmos e gestão de memória. Estou buscando uma transição para a carreira de desenvolvedor de software, onde posso aplicar e expandir meus conhecimentos técnicos. Estou entusiasmado para contribuir e crescer em uma equipe inovadora.
+Olá, meu nome é João Pedro. Tenho conhecimento intermediário/avançado em programação em C, incluindo estruturas de dados, algoritmos e gerenciamento de memória.  
+Atualmente estou em transição para o desenvolvimento Web, estudando profundamente **HTML, CSS e JavaScript**, e avançando para tecnologias modernas como **React, Node.js e TypeScript**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaop-bier&label=Profile%20views&color=0e75b6&style=flat" alt="joaop-bier" /> </p>
+Sou dedicado, disciplinado e sempre buscando evoluir na área de tecnologia. Quero contribuir em equipes inovadoras e crescer como desenvolvedor Full Stack no futuro.
 
-### Linguagens
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joaop-bier&label=Profile%20views&color=0e75b6&style=flat" alt="joaop-bier"/>
+</p>
+
+---
+
+## 🚀 Linguagens que utilizo
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Linguagens que desejo aprender
+---
 
+## 📘 Tecnologias que estou estudando / desejo aprender
 
-### Banco de dados
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Sistema operacional
+## 🗄️ Banco de Dados
 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 💻 Sistema Operacional
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaop-bier&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Conecte-se comigo
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaop-bier)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](bierj8877@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/joao.pksks/])
+## 🔗 Conecte-se comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaop-bier)
+[![Gmail](https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bierj8877@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.pksks/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+```
+
+---
