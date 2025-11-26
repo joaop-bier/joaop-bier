@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Olá, eu sou João 👋</h1>
 <h3 align="center">Sou Desenvolvedor Front-End • Curitiba - Brasil</h3>
 
@@ -60,6 +59,3 @@ Sou dedicado, disciplinado e sempre buscando evoluir na área de tecnologia. Que
 [![Gmail](https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bierj8877@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.pksks/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-```
-
----
