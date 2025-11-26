@@ -54,6 +54,7 @@ Sou disciplinado, curioso e sempre buscando evoluir. Meu objetivo é atuar como 
       align="left"
       alt="GitHub Stats"
       height="200"
+      margin-bottom="20"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysthoferr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
